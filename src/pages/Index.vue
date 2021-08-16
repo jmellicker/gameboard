@@ -3,7 +3,7 @@
     <div class="row justify-center full-width q-pa-lg">
       <q-btn
         label="generate board"
-        color="grey-7"
+        color="grey-9"
         size="lg"
       />
     </div>
